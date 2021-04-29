@@ -13,8 +13,7 @@ I have **ABSOLUTELY** no idea what to write here, so I will introduce myself a *
 2. Student # : 19
 3. Major: Visual Design
 4. Hobby: Sleep
-
-
+---------------
 1. Name: Dahee Han
 2. Student #:
 3. Major:
